@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Wifiesta](https://play.google.com/store/apps/details?id=com.wifiesta.android)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
-
 - 👯 I’m looking to collaborate on **Mobile Applications**
 
 - 💬 Ask me about **Android Development,Kotlin, Kotlin Multiplatform, Mobile App Development, Firebase, AI**
