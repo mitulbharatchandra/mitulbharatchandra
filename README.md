@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mitul.aapdev@gmail.com**
 
-- ⚡ Fun fact **I love to traveling.....**
+- ⚡ Fun fact **I love traveling.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
